@@ -1,4 +1,4 @@
-s = 'pavithra'
+s = 'hai'
 if s.isdigit():
     print "Number"
 else:
